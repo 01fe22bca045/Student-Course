@@ -1,4 +1,4 @@
-package student;
+
 public class studmain extends substudent {
     void course()
     {
