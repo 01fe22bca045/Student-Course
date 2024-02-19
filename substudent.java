@@ -2,7 +2,7 @@
 public class substudent {
     public void stud_det()
     {
-        String name = "Prajwal";
+        String name = "Evelyn";
         String prg = "BCA";
         String dept = "MCA";
         String[] course = {"DevOps", "Machine Learning", "C#"};
